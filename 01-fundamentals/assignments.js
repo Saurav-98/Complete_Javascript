@@ -1,3 +1,4 @@
+/*
 let country;
 let continent;
 let population;
@@ -9,3 +10,4 @@ population = 1417;
 console.log(country);
 console.log(continent);
 console.log(population);
+*/
